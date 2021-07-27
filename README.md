@@ -1,5 +1,6 @@
 <h1 align = "center" style = "color:blue" > Ｏ(≧▽≦)Ｏ NANGEBAV Ｏ(≧▽≦)Ｏ </h1>
 <h2 align = "center"> (ﾉ◕ヮ◕)ﾉ*:･ﾟ✿ Nancy Angélica Sayuri Bautista Vargas ✿･ﾟ✧:＼(^ヮ^＼) </h2>
+<img src="https://i.pinimg.com/originals/71/97/3f/71973f6d71e09d0f816d01f1c673549e.gif" alt="gifFlowers"></img>
 <h3 align = "center"> Soy una apasionada de la tecnología y el diseño web. </h3>
 
 <p align = "left">
