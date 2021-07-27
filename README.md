@@ -1,6 +1,6 @@
 <h1 align = "center" style = "color:blue" >
   <img src = "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fe3e8e06-b0e5-40a4-b500-713aa6d6d8dd/d5r2i0w-eec95033-3819-4fcc-9d93-0c894fd86a1c.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZlM2U4ZTA2LWIwZTUtNDBhNC1iNTAwLTcxM2FhNmQ2ZDhkZFwvZDVyMmkwdy1lZWM5NTAzMy0zODE5LTRmY2MtOWQ5My0wYzg5NGZkODZhMWMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.rl3YfA8_IMLn9wzPtO1Oj_13aVQ3F4J4z3vt0vMDj5U" alt="calarb"  height="80" />
-      Nancy Angélica Sayuri Bautista Vargas 
+      Nancy Angélica Bautista Vargas 
   <img src = "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fe3e8e06-b0e5-40a4-b500-713aa6d6d8dd/d5r2i0w-eec95033-3819-4fcc-9d93-0c894fd86a1c.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZlM2U4ZTA2LWIwZTUtNDBhNC1iNTAwLTcxM2FhNmQ2ZDhkZFwvZDVyMmkwdy1lZWM5NTAzMy0zODE5LTRmY2MtOWQ5My0wYzg5NGZkODZhMWMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.rl3YfA8_IMLn9wzPtO1Oj_13aVQ3F4J4z3vt0vMDj5U" alt="calarb"  height="80" />
 
 </h1>
