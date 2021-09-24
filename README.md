@@ -37,7 +37,7 @@ const Nancy = {
   code: [Javascript, HTML, CSS],
   tools: [React, Redux, Node, Jest, Docker],
   designPrograms: ["Photoshop", "Illustrator", "Figma"], 
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  challenge: "I am building a video game"
 }
 
 ```
