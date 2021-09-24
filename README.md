@@ -20,8 +20,8 @@
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/nangebav)
 [![Linkedin Badge](https://img.shields.io/badge/-Nancy%20Bautista-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/nancy-angelica-bautista-vargas-10263a184/)](https://www.linkedin.com/in/nancy-angelica-bautista-vargas-10263a184/) 
-[![Twitter Badge](http://img.shields.io/badge/-@nangebav-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/nangebav)](https://twitter.com/VedantKhairnar3) [![GitHub followers](https://img.shields.io/github/followers/VedantKhairnar?label=Follow&style=social)](https://github.com/VedantKhairnar/?tab=follow)
-[![Vedant Khairnar](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](http://vedantkhairnar.ml/)
+[![Twitter Badge](http://img.shields.io/badge/-@nangebav-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/nangebav)](https://twitter.com/nangebav) [![GitHub followers](https://img.shields.io/github/followers/nangebav?label=Follow&style=social)](https://github.com/nangebav/?tab=follow)
+[![Nangebav](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](http://nangebav.ml/)
 [![Visitors](https://komarev.com/ghpvc/?username=nangebav&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/nangebav)
  </div>
 
