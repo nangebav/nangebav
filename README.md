@@ -9,11 +9,11 @@
 </h3>
 
 <p align = "center">
-  <img align = "flex-end" src = "https://animesher.com/orig/1/113/1135/11358/animesher.com_pixel-dance-cute-1135879.gif"  height="100" />
-  <img align = "flex-end" src = "https://animesher.com/orig/1/113/1135/11358/animesher.com_pixel-dance-cute-1135879.gif"  height="100" />
+  <img align = "flex-end" src = "https://animesher.com/orig/1/113/1135/11358/animesher.com_pixel-dance-cute-1135879.gif"  height="90" />
+  <img align = "flex-end" src = "https://animesher.com/orig/1/113/1135/11358/animesher.com_pixel-dance-cute-1135879.gif"  height="90" />
   <img align = "flex-end" src = "https://static.wixstatic.com/media/f1ca3e_4574c610fdc14ed7ba02d53398e97566~mv2.gif"  height="100" />
-  <img align = "flex-end" src = "https://animesher.com/orig/1/113/1135/11358/animesher.com_pixel-dance-cute-1135879.gif"  height="100" />
-  <img align = "flex-end" src = "https://animesher.com/orig/1/113/1135/11358/animesher.com_pixel-dance-cute-1135879.gif"  height="100" />
+  <img align = "flex-end" src = "https://animesher.com/orig/1/113/1135/11358/animesher.com_pixel-dance-cute-1135879.gif"  height="90" />
+  <img align = "flex-end" src = "https://animesher.com/orig/1/113/1135/11358/animesher.com_pixel-dance-cute-1135879.gif"  height="90" />
 </p>
 
 <div align="center">
